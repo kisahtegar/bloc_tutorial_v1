@@ -1,0 +1,13 @@
+src : https://www.youtube.com/watch?v=THCkkQ-V1-8
+
+1) bloc_core_concepts     :
+2) flutter_bloc_concepts  :
+3) bloc_testing           :
+4) bloc_access            :
+5) bloc_communication     :
+6) buildcontexts          :
+7) bloc v6.0...           : Learn how (context.watch / context.read / context.select) work.
+8) state_not_updating     : Learn how to use Equatable 
+9) maintaining_state      : Learn Hydrated bloc save last edit app in local storage (still not working)
+10) debuging_cubit        : 
+
